@@ -1,0 +1,25 @@
+install -g npm@latest ultima version de node npm -version
+
+de forma global
+npm install -g @angular/cli
+
+crear la aplicacion (my-App lo cambio por el nombre de la aplicacion)
+ng new clase-01
+
+llegar a la apliacion 
+cd my-App 
+
+
+abrir el server
+ng serve --open
+
+\verificar que este todo bien intalado
+npm -g ls
+
+npm start para empesar el server
+
+
+destro de assets se ponen las imagenes y esas cosas
+
+enviroments para declarar va=riables
+ng g environments
